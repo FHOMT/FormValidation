@@ -43,3 +43,6 @@ input[type=submit] {
     margin-right: auto;
     width: 50%;
   }
+  table {
+      margin-left: 400px;
+  }
