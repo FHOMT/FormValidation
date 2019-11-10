@@ -1,0 +1,36 @@
+body {
+    background-image: url(./assest/tampons-1143489_1920.jpg);
+    font-family: Rubik, Arial;
+}
+#overlay {
+    width: 80%;
+    margin: 3% auto;
+    height: 85vh;
+    background-color: #d2c7c7d9;
+    border-radius: 40px;
+}
+#logo {
+    height: 100px;
+    display: block;
+    margin: auto;
+}
+form {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 22px;
+    line-height: 35px;
+}
+input[type=submit] {
+    background-color: #3c0e0ed9;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #fff;
+    font-size:16px;
+    font-weight: bold;
+    line-height: 1.4;
+    padding: 10px;
+    width: 180px;
+    margin-top: 70px;
+  }
